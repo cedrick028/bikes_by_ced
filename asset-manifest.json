@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/bikes_by_ced/static/css/main.0590c92c.css",
+    "main.js": "/bikes_by_ced/static/js/main.f00693ea.js",
+    "static/media/bike_6.png": "/bikes_by_ced/static/media/bike_6.6defa078d26c5d1531b5.png",
+    "static/media/bike_7.png": "/bikes_by_ced/static/media/bike_7.f7da34bec4d037ccb55e.png",
+    "static/media/background.png": "/bikes_by_ced/static/media/background.0726ea8093440a773f51.png",
+    "static/media/bike_2.png": "/bikes_by_ced/static/media/bike_2.c0f64deef87ec3b4360d.png",
+    "static/media/bike_1.png": "/bikes_by_ced/static/media/bike_1.665cccb3a8c58841338b.png",
+    "static/media/bike_3.png": "/bikes_by_ced/static/media/bike_3.3be500b1682396841164.png",
+    "static/media/bike_4.png": "/bikes_by_ced/static/media/bike_4.068ef6da938c8a3ddfff.png",
+    "static/media/bike_5.png": "/bikes_by_ced/static/media/bike_5.2a511a2d91b835d1ab48.png",
+    "index.html": "/bikes_by_ced/index.html",
+    "main.0590c92c.css.map": "/bikes_by_ced/static/css/main.0590c92c.css.map",
+    "main.f00693ea.js.map": "/bikes_by_ced/static/js/main.f00693ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0590c92c.css",
+    "static/js/main.f00693ea.js"
+  ]
+}
